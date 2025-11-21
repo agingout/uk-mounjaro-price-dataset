@@ -1,0 +1,461 @@
+
+  "metadata": {
+    "dataset_name": "UK Mounjaro Price Comparison",
+    "description": "Price comparison data for Mounjaro (Tirzepatide) from GPhC-regulated UK pharmacies",
+    "source": "https://click.compare/mounjaro/",
+    "last_updated": "2025-11-10",
+    "currency": "GBP",
+    "note": "Prices are rounded to nearest pound. Always verify directly with pharmacies.",
+    "data_collection": "Prices manually collected from registered UK pharmacies. Review scores sourced from Trustpilot.",
+    "pricing_note": "All medication prices include delivery costs where applicable. The 'delivery_cost' field indicates whether delivery is free or the cost that is already included in the listed prices."
+  },
+  "pharmacies": [
+    {
+      "name": "Swift Doctor",
+      "url": "https://click.compare/swift-doctor/",
+      "trustpilot_rating": 4.9,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 149,
+        "5mg": 169,
+        "7.5mg": 225,
+        "10mg": 249,
+        "12.5mg": 265,
+        "15mg": 289
+      },
+      "average_price": 226
+    },
+    {
+      "name": "Care Pharmacy",
+      "url": "https://click.compare/the-care-pharmacy/",
+      "trustpilot_rating": 4.9,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 150,
+        "5mg": 185,
+        "7.5mg": 235,
+        "10mg": 260,
+        "12.5mg": 280,
+        "15mg": 300
+      },
+      "average_price": 235
+    },
+    {
+      "name": "We Prescribe",
+      "url": "https://click.compare/weprescribe-online-pharmacy/",
+      "trustpilot_rating": 4.9,
+      "delivery_cost": "£10 included",
+      "prices": {
+        "2.5mg": 170,
+        "5mg": 195,
+        "7.5mg": 250,
+        "10mg": 268,
+        "12.5mg": 295,
+        "15mg": 310
+      },
+      "average_price": 247
+    },
+    {
+      "name": "Pharmica",
+      "url": "https://click.compare/pharmica/",
+      "trustpilot_rating": 4.9,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 150,
+        "5mg": 200,
+        "7.5mg": 260,
+        "10mg": 285,
+        "12.5mg": 310,
+        "15mg": 320
+      },
+      "average_price": 254
+    },
+    {
+      "name": "Quick Meds",
+      "url": "https://click.compare/quick-meds/",
+      "trustpilot_rating": 4.9,
+      "delivery_cost": "£8 included",
+      "prices": {
+        "2.5mg": 178,
+        "5mg": 198,
+        "7.5mg": 258,
+        "10mg": 298,
+        "12.5mg": 318,
+        "15mg": 338
+      },
+      "average_price": 265
+    },
+    {
+      "name": "Pharmulous",
+      "url": "https://click.compare/pharmulous/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 140,
+        "5mg": 165,
+        "7.5mg": 215,
+        "10mg": 240,
+        "12.5mg": 260,
+        "15mg": 275
+      },
+      "average_price": 216
+    },
+    {
+      "name": "Fylde Clinic",
+      "url": "https://click.compare/fylde-clinic/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 139,
+        "5mg": 165,
+        "7.5mg": 215,
+        "10mg": 240,
+        "12.5mg": 260,
+        "15mg": 275
+      },
+      "average_price": 216
+    },
+    {
+      "name": "Family Chemist",
+      "url": "https://click.compare/the-family-chemist/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "£7 included",
+      "prices": {
+        "2.5mg": 167,
+        "5mg": 176,
+        "7.5mg": 230,
+        "10mg": 260,
+        "12.5mg": 280,
+        "15mg": 270
+      },
+      "average_price": 230
+    },
+    {
+      "name": "Ashcroft",
+      "url": "https://click.compare/ashcroft-pharmacy/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "£7 included",
+      "prices": {
+        "2.5mg": 168,
+        "5mg": 178,
+        "7.5mg": 228,
+        "10mg": 258,
+        "12.5mg": 278,
+        "15mg": 288
+      },
+      "average_price": 233
+    },
+    {
+      "name": "Medino",
+      "url": "https://click.compare/medino/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 165,
+        "5mg": 178,
+        "7.5mg": 228,
+        "10mg": 258,
+        "12.5mg": 278,
+        "15mg": 288
+      },
+      "average_price": 233
+    },
+    {
+      "name": "Chemist4U",
+      "url": "https://click.compare/chemist4u/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 165,
+        "5mg": 178,
+        "7.5mg": 228,
+        "10mg": 258,
+        "12.5mg": 278,
+        "15mg": 288
+      },
+      "average_price": 233
+    },
+    {
+      "name": "SimplyMeds Online",
+      "url": "https://click.compare/simply-meds/",
+      "trustpilot_rating": 4.8,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 164,
+        "5mg": 178,
+        "7.5mg": 228,
+        "10mg": 258,
+        "12.5mg": 278,
+        "15mg": 288
+      },
+      "average_price": 232
+    },
+    {
+      "name": "Oushk",
+      "url": "https://click.compare/oushk-pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£7 included",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 189,
+        "7.5mg": 239,
+        "10mg": 269,
+        "12.5mg": 289,
+        "15mg": 299
+      },
+      "average_price": 243
+    },
+    {
+      "name": "Click 2 Pharmacy",
+      "url": "https://click.compare/click2pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£5 included",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 189,
+        "7.5mg": 239,
+        "10mg": 269,
+        "12.5mg": 289,
+        "15mg": 299
+      },
+      "average_price": 243
+    },
+    {
+      "name": "Happy Pharmacy",
+      "url": "https://click.compare/happy-pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£4 included",
+      "prices": {
+        "2.5mg": 171,
+        "5mg": 191,
+        "7.5mg": 241,
+        "10mg": 271,
+        "12.5mg": 291,
+        "15mg": 301
+      },
+      "average_price": 244
+    },
+    {
+      "name": "Tribelle",
+      "url": "https://click.compare/tribelle/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£6 included",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 195,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 305
+      },
+      "average_price": 248
+    },
+    {
+      "name": "Phlo / Morrisons",
+      "url": "https://click.compare/phlo-clinic/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 195,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 305
+      },
+      "average_price": 248
+    },
+    {
+      "name": "Live Well Weight Loss",
+      "url": "https://click.compare/live-well-weight-loss/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£4 included",
+      "prices": {
+        "2.5mg": 171,
+        "5mg": 195,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 305
+      },
+      "average_price": 248
+    },
+    {
+      "name": "Farmeci",
+      "url": "https://click.compare/farmeci/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 195,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 305
+      },
+      "average_price": 248
+    },
+    {
+      "name": "Cloud Pharmacy",
+      "url": "https://click.compare/cloud-pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£7 included",
+      "prices": {
+        "2.5mg": 176,
+        "5mg": 196,
+        "7.5mg": 246,
+        "10mg": 276,
+        "12.5mg": 296,
+        "15mg": 306
+      },
+      "average_price": 249
+    },
+    {
+      "name": "Click Pharmacy",
+      "url": "https://click.compare/click-pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 180,
+        "5mg": 190,
+        "7.5mg": 240,
+        "10mg": 270,
+        "12.5mg": 290,
+        "15mg": 300
+      },
+      "average_price": 245
+    },
+    {
+      "name": "Peak Pharmacy",
+      "url": "https://click.compare/peak-pharmacy/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 175,
+        "5mg": 195,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 305
+      },
+      "average_price": 248
+    },
+    {
+      "name": "IQ Doctor",
+      "url": "https://click.compare/iq-doctor/",
+      "trustpilot_rating": 4.7,
+      "delivery_cost": "£5 included",
+      "prices": {
+        "2.5mg": 180,
+        "5mg": 200,
+        "7.5mg": 250,
+        "10mg": 280,
+        "12.5mg": 300,
+        "15mg": 310
+      },
+      "average_price": 253
+    },
+    {
+      "name": "Simple Online Pharmacy",
+      "url": "https://click.compare/simple-online-pharmacy/",
+      "trustpilot_rating": 4.6,
+      "delivery_cost": "£4 included",
+      "prices": {
+        "2.5mg": 173,
+        "5mg": 204,
+        "7.5mg": 264,
+        "10mg": 304,
+        "12.5mg": 314,
+        "15mg": 324
+      },
+      "average_price": 264
+    },
+    {
+      "name": "Pharmacy 2U",
+      "url": "https://click.compare/pharmacy2u/",
+      "trustpilot_rating": 4.6,
+      "delivery_cost": "£6 included",
+      "prices": {
+        "2.5mg": 196,
+        "5mg": 221,
+        "7.5mg": 271,
+        "10mg": 301,
+        "12.5mg": 316,
+        "15mg": 331
+      },
+      "average_price": 273
+    },
+    {
+      "name": "Lotus Weight Loss",
+      "url": "https://click.compare/lotus-weight-loss-clinic/",
+      "trustpilot_rating": 4.4,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 179,
+        "5mg": 195,
+        "7.5mg": 246,
+        "10mg": 285,
+        "12.5mg": 300,
+        "15mg": 309
+      },
+      "average_price": 252
+    },
+    {
+      "name": "SheMed",
+      "url": "https://click.compare/shemed/",
+      "trustpilot_rating": 4.4,
+      "delivery_cost": "Subscription - Free",
+      "prices": {
+        "2.5mg": 229,
+        "5mg": 229,
+        "7.5mg": 279,
+        "10mg": 279,
+        "12.5mg": 319,
+        "15mg": 319
+      },
+      "average_price": 276
+    },
+    {
+      "name": "MedExpress",
+      "url": "https://click.compare/medexpress/",
+      "trustpilot_rating": 4.3,
+      "delivery_cost": "£6 included",
+      "prices": {
+        "2.5mg": 186,
+        "5mg": 196,
+        "7.5mg": 256,
+        "10mg": 286,
+        "12.5mg": 306,
+        "15mg": 316
+      },
+      "average_price": 258
+    },
+    {
+      "name": "Pharmacy Advance",
+      "url": "https://click.compare/pharmacy-advance/",
+      "trustpilot_rating": 4.2,
+      "delivery_cost": "Free",
+      "prices": {
+        "2.5mg": 155,
+        "5mg": 175,
+        "7.5mg": 245,
+        "10mg": 275,
+        "12.5mg": 295,
+        "15mg": 315
+      },
+      "average_price": 243
+    },
+  ],
+  "regulation_info": {
+    "regulatory_body": "General Pharmaceutical Council (GPhC)",
+    "note": "All listed pharmacies are GPhC-regulated and registered to operate in the UK",
+    "verification_url": "https://www.pharmacyregulation.org/"
+  },
+  "treatment_info": {
+    "medication": "Mounjaro (Tirzepatide)",
+    "manufacturer": "Eli Lilly",
+    "prescription_required": true,
+    "storage_requirements": "2-8°C during shipping, up to 30°C after first use for 30 days",
+    "available_doses": ["2.5mg", "5mg", "7.5mg", "10mg", "12.5mg", "15mg"]
+  }
+}
