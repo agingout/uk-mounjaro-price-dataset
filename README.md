@@ -74,6 +74,12 @@ This dataset is provided for:
 
 All listed pharmacies are regulated by the General Pharmaceutical Council (GPhC). You can verify pharmacy registration at: https://www.pharmacyregulation.org/
 
+## Access the Data
+
+**Interactive Dataset on Kaggle**: [View on Kaggle](https://www.kaggle.com/datasets/yourusername/dataset-name)
+
+For data analysis, research, or to download the complete dataset with version history, visit our Kaggle page.
+
 ## License
 
 This dataset is provided under Creative Commons Attribution 4.0 International (CC BY 4.0).
