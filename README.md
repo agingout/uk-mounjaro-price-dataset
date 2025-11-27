@@ -76,7 +76,7 @@ All listed pharmacies are regulated by the General Pharmaceutical Council (GPhC)
 
 ## Access the Data
 
-**Interactive Dataset on Kaggle**: [View on Kaggle](https://www.kaggle.com/datasets/yourusername/dataset-name)
+**Interactive Dataset on Kaggle**: [View on Kaggle](https://www.kaggle.com/datasets/abbieclayton/uk-mounjaro-prices-pharmacy-comparison-dataset)
 
 For data analysis, research, or to download the complete dataset with version history, visit our Kaggle page.
 
